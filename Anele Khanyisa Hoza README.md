@@ -1,37 +1,48 @@
-# About-Me
-Hi, I'm Anele 👋
+# About Me
+## Hi, I'm Anele 👋
 
-A Software Developer with no experience, passionate about building real-world tech solutions and solving complex problems 🧩
-* I work across Java, Python and React⚙️
-* I love turning ideas into practical products 🚀 - from designing APIs to crafting frontend interface.
+A Software Developer passionate about building real-world tech solutions and solving complex problems 🧩
+
+* I work across Java, Python, and React ⚙️
+* I love turning ideas into practical products 🚀 — from designing APIs to crafting frontend interfaces.
 * Excellent communication & collaboration.
-* Focused on delivering high quality, scalable, and maintainable software solutions.
+* Focused on delivering high-quality, scalable, and maintainable software solutions.
 
-# Beyond coding
+---
+
+# 🚀 Tech Stack
+
+<p align="left" style="background-color: #0d1117; padding: 15px; border-radius: 8px; display: inline-block;">
+  <!-- Languages -->
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <br><br>
+  <!-- Frameworks -->
+  <img src="https://shields.io" alt="SpringBoot" />
+  <img src="https://shields.io" alt="ReactJs" />
+  <img src="https://shields.io" alt="Django" />
+</p>
+
+---
+
+# 🔭 What I'm Up To
+* **🔭 Current Focus:** Improving my problem-solving skills.
+* **🌱 Learning Journey:** Mastering Data Structures & Algorithms.
+* **👯 Collaboration:** Looking to team up on development-focused projects.
+
+---
+
+# 🎙️ Beyond Coding
 * I enjoy sharing knowledge 🎙️ and collaborating with fellow developers 🤝
 * Always open to meaningful conversations around tech, learning, and innovation ✨
 
-# What I'm Up To
-🔭 I’m currently improving my problem-solving skills
+---
 
-🌱 I’m currently learning Data Structure & Algorithms
+# 📫 Connect with Me
 
-👯 I’m looking to collaborate on development-focused projects
+Feel free to reach out for collaborations or just a friendly tech chat!
 
-📫 Reach me at anele376@gmail.com
-
-Connect with me:
-anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com
-
-# Tech Stack
-* Languages
-  https://img.shields.io/badge/-Java-critical?logo=java&logoColor=white&style=plastic
-  https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=plastic
-  https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=plastic
-  https://img.shields.io/badge/-HTML5-61DAFB?logo=html5&logoColor=white&style=plastic
-  https://img.shields.io/badge/-Css-61DAFB?logo=css&logoColor=white&style=plastic
-# Frameworks
-* https://img.shields.io/badge/-SpringBoot-brightgreen?logo=react&logoColor=white&style=plastic
-* https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic
-* https://img.shields.io/badge/-Django-61DAFB?logo=django&logoColor=white&style=plastic
-
+[![Email](https://shields.io)](mailto:anele376@gmail.com)
