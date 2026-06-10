@@ -25,7 +25,9 @@ anele376@gmail.com anele376@gmail.com anele376@gmail.com anele376@gmail.com anel
 
 # Tech Stack
 * Languages
-* https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java https://img.shields.io/badge/Python-Navy?style=for-the-badge&logo=python https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
-* https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5 https://img.shields.io/badge/CSS%203%20-blue?style=for-the-badge&logo=css3 
+  [![Java](https://shields.io)](https://www.oracle.com)
+  [![Python](https://shields.io)](https://python.org)
+*  [![JavaScript](https://shields.io)](https://www.javascript.com)
+* 
 # Frameworks
 * https://img.shields.io/badge/React%20js%20logo-sky-blue?style=for-the-badge&logo=React
