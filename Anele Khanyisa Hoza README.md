@@ -47,6 +47,6 @@ Feel free to reach out for collaborations or just a friendly tech chat!
 
 [![Email](https://shields.io)](mailto:anele376@gmail.com)
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/anele-kanyisa-hoza)
-
+___
 
 
